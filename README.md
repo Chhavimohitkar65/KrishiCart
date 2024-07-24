@@ -1,34 +1,30 @@
-# 🌱कृषिCart
+# <span style="font-size: 24px;">🌱कृषिCart</span>
 
-🌱कृषिCart is a platform designed to empower farmers by providing them a direct channel to sell their products to consumers. This project combines modern web technologies to deliver a seamless and user-friendly experience.
+<span style="font-size: 14px;">🌱कृषिCart is a platform designed to empower farmers by providing them with a direct channel to sell their products to consumers. This project combines modern web technologies to deliver a seamless and user-friendly experience.</span>
 
-## Features
+## <span style="font-size: 20px;">Features</span>
 
-- **Product Listings**: Farmers can create detailed listings for their products.
-- **User Authentication**: Secure login and registration for both farmers and consumers.
-- **Chatbot Support**: Integrated chatbot using Copilot for enhanced user experience and support.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Real-time Updates**: Instant notifications for orders and messages.
+- <span style="font-size: 14px;"><strong>Product Listings</strong>: Farmers can create detailed listings for their products.</span>
+- <span style="font-size: 14px;"><strong>User Authentication</strong>: Secure login and registration for both farmers and consumers.</span>
+- <span style="font-size: 14px;"><strong>Chatbot Support</strong>: Integrated chatbot using Copilot for enhanced user experience and support.</span>
+- <span style="font-size: 14px;"><strong>Responsive Design</strong>: Optimized for desktop.</span>
+- <span style="font-size: 14px;"><strong>Real-time Updates</strong>: Instant notifications for orders and messages.</span>
 
-## Technology Stack
+## <span style="font-size: 20px;">Technology Stack</span>
 
-- **MongoDB**: Database management
-- **Express.js**: Server-side framework
-- **React**: Front-end library
-- **Node.js**: JavaScript runtime
+- <span style="font-size: 14px;"><strong>MongoDB</strong>: Database management</span>
+- <span style="font-size: 14px;"><strong>Express.js</strong>: Server-side framework</span>
+- <span style="font-size: 14px;"><strong>React</strong>: Front-end library</span>
+- <span style="font-size: 14px;"><strong>Node.js</strong>: JavaScript runtime</span>
 
-## Getting Started
+## <span style="font-size: 20px;">Getting Started</span>
 
-Follow these instructions to set up the project locally.
+<span style="font-size: 14px;">Follow these instructions to set up the project locally.</span>
 
-### Prerequisites
+### <span style="font-size: 18px;">Prerequisites</span>
 
-- Node.js
-- npm (Node Package Manager)
-- MongoDB
+- <span style="font-size: 14px;">Node.js</span>
+- <span style="font-size: 14px;">npm (Node Package Manager)</span>
+- <span style="font-size: 14px;">MongoDB</span>
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/krishiCart.git

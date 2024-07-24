@@ -2,6 +2,8 @@
 
 <span style="font-size: 14px;">🌱कृषिCart is a platform designed to empower farmers by providing them with a direct channel to sell their products to consumers. This project combines modern web technologies to deliver a seamless and user-friendly experience.</span>
 
+https://github.com/user-attachments/assets/370a6bb5-f53f-486b-9947-eb4d3924abd5 
+
 ## <span style="font-size: 20px;">Features</span>
 
 - <span style="font-size: 14px;"><strong>Product Listings</strong>: Farmers can create detailed listings for their products.</span>

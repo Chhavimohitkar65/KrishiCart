@@ -19,14 +19,5 @@ https://github.com/user-attachments/assets/370a6bb5-f53f-486b-9947-eb4d3924abd5
 - <span style="font-size: 14px;"><strong>React</strong>: Front-end library</span>
 - <span style="font-size: 14px;"><strong>Node.js</strong>: JavaScript runtime</span>
 
-## <span style="font-size: 20px;">Getting Started</span>
-
-<span style="font-size: 14px;">Follow these instructions to set up the project locally.</span>
-
-### <span style="font-size: 18px;">Prerequisites</span>
-
-- <span style="font-size: 14px;">Node.js</span>
-- <span style="font-size: 14px;">npm (Node Package Manager)</span>
-- <span style="font-size: 14px;">MongoDB</span>
 
 
